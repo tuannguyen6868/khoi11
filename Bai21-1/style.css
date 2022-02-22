@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* float */
+/* .box1 {
+    height: 200px;
+    width: 200px;
+    background-color: lawngreen;
+    float: left;
+}
+
+.box2 {
+    height: 400px;
+    width: 200px;
+    background-color: rgb(252, 59, 0);
+    float: left;
+}
+
+.box3 {
+    height: 600px;
+    width: 200px;
+    background-color: rgb(0, 17, 252);
+    float: left;
+} */
+
+/* end float */
+
+/* position */
+
+/* .main {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(32, 161, 178);
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+.cha {
+    width: 400px;
+    height: 400px;
+    background-color: lightsalmon;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.con {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(34, 32, 178);
+    position: absolute;
+    
+    bottom: 0px;
+} */
+
+/* end position */
+
+/* vi du sung position tao anh bao CV */
+
+.cv {
+    width: 450px;
+    
+}
+.ava {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(178, 163, 32);
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    border-radius: 50%;
+}
+
+img {
+    height: 100%;
+    border-radius: 50%;
+}
+.content {
+    height: 250px;
+    width: 450px;
+    background-color: rgb(228, 157, 4);
+    border-radius: 50px;
+    
+}

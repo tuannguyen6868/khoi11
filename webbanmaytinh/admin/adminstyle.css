@@ -1,0 +1,11 @@
+ .onmouseover
+{
+	background-color:#CCCCCC;
+	cursor:hand;
+	border-color:#FFFF00;
+}
+.onmouseout
+{
+	background-color:#FFFFFF;
+	color:#FFFFFF;
+}

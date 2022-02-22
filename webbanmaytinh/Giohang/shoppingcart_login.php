@@ -1,0 +1,2 @@
+Ban ch&#432;a &#273;ang nh&acirc;p h&#7879; th&#7889;ng. <br>
+Click v&agrave;o &#273;&acirc;y &#273;&#7875; <a href="index.php?go=login"><u>&#272;&#259;ng nh&#7853;p</u></a> ho&#7863;c <a href="index.php?go=register"><u>&#272;&#259;ng k&yacute;</u> </a>

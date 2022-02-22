@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: none;
+}
+
+.list {
+    height: 400px;
+    width: 350px;
+    margin: 10px 15px;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+}
+
+.icon {
+    font-size: 40px;
+    text-align: right;
+    color: rgb(19, 19, 150);
+}
+
+.sub {
+    height: 20px;
+    width: 90px;
+    border-radius: 5%;
+    background-color: rgb(255, 148, 8);
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.content {
+    font-size: 20px;
+    margin: 15px 0;
+    /* text-transform: uppercase; */
+}
+
+.price {
+    color: red;
+    font-weight: bold;
+}

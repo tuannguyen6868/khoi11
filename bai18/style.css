@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    width: 150px;
+    
+}
+
+img {
+    width: 100%;
+}
+
+.left {
+    display: inline-block;
+    width: 25px;
+    height: 15px;
+    background-color: rebeccapurple;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.right {
+    display: inline-block;
+    width: 25px;
+    height: 15px;
+    background-color: rebeccapurple;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+    
+}
+
+p {
+    text-decoration: line-through;
+}

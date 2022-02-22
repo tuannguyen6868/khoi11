@@ -1,0 +1,45 @@
+/* div {
+    border: 1px solid black;
+} */
+
+.header {
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.main {
+    height: 200px;
+    
+}
+
+.footer {
+    height: 50px;
+    background-color: burlywood;
+}
+
+.left {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: cadetblue;
+    
+}
+
+.right {
+    float: left;
+    width: 70%;
+    height: 100%;
+    
+    
+}
+
+.extra-content {
+    height: 70%;
+    background-color: blue;
+    
+}
+
+.content {
+    height: 30%;
+    background-color: chartreuse;
+}

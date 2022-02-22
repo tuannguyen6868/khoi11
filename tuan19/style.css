@@ -1,0 +1,16 @@
+
+.main {
+    width: 400px;
+    height: 500px;
+    background-color: burlywood;
+    font-size: 100px;
+    color: blue;
+    text-align: right;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+
+img {
+    width: 100%;
+}

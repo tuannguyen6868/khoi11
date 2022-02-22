@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* div {
+    border: solid 1px black;
+} */
+
+.header {
+    height: 50px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    
+}
+
+.main {
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    height: 50px;
+    background-color: burlywood;
+    /* margin-top: 10px; */
+}
+
+.sidebar {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: cadetblue;
+    margin-right: 5px;
+}
+
+.content {
+    float: left;
+    width: 950px;
+    height: 100%;
+    background-color: crimson;
+}
+
+.main-content {
+    height: 70%;
+    background-color: darkkhaki;
+}
+
+.extra-content {
+    height: 30%;
+    background-color: royalblue;
+}

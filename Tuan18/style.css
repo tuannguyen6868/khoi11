@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    width: 200px;
+    display: inline-block;
+    border: solid 1px;
+}
+
+img {
+    width: 100%;
+}
+
+.left {
+    display: inline-block;
+    height: auto;
+    width: 40px;
+    background-color: rgb(153, 51, 51);
+    text-align: center;
+    margin-right: 90px;
+}
+
+.right {
+    display: inline-block;
+    height: auto;
+    width: 40px;
+    background-color: rgb(51, 153, 59);
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.fprice {
+    text-decoration: line-through;
+    color: red;
+}
+
+.lprice {
+    color: red;
+}
+

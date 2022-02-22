@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div, img{
+    border: 1px solid black;
+}
+
+body{
+    background: rgb(239, 239, 239);
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    height: 900px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+    height: 500px;
+}
+
+.block1, .block2, .block3{
+    width: 30%;
+    position: relative;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: -0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    background: orangered;
+    border-radius: 15px;
+}
+
+.contact{
+    padding: 20px;
+    height: 200px;
+}
+
+.title{
+    color: orangered;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.combo{
+    margin: 5px 0;
+}
+
+.combo-title{
+    font-weight: bold;
+}
+
+
+.combo2{
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.combo2 .title{
+    margin-bottom: 20px;
+}
+
+.footer{
+    height: 100px;
+}
